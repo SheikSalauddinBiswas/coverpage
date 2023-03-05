@@ -3,9 +3,9 @@ include "inc/header.php";
 include "inc/sidenavbar.php";
 
 ?>
-<video autoplay muted loop id="myVideo">
+<!-- <video autoplay muted loop id="myVideo">
         <source src="pictures/video.mp4" type="video/mp4">
-</video>
+</video> -->
 <main>
     <div class="site-section">
         <div class="container">
